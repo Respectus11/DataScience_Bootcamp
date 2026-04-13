@@ -1,0 +1,29 @@
+ Insights from Video Game Sales Analysis
+1. Platform Market Share
+By grouping sales data by platform and calculating each platform’s share of total global sales, we can see which consoles dominate the market.
+
+A small number of platforms capture the majority of sales.
+
+Platforms such as PS2, Wii, and DS consistently hold the largest market shares, showing their historical dominance.
+
+Interpretation:  
+These platforms were central to the industry’s growth. Market share analysis highlights where publishers and developers concentrated their efforts, and helps explain why certain publishers thrived during specific console generations.
+
+2. Genre Diversity Index
+By grouping data by publisher and counting the number of unique genres they have released, we measure genre diversity.
+
+Publishers such as Electronic Arts (EA), Activision, and Ubisoft show high genre diversity, producing games across many categories (Sports, Action, RPG, Racing, etc.).
+
+Interpretation:  
+High diversity indicates adaptability and broad audience targeting. Publishers with wide genre portfolios are less dependent on the success of a single genre, reducing risk and increasing resilience against market shifts in player preferences.
+
+3. Combined Strategic View
+Platform Market Share tells us where the money is — which consoles drive sales.
+
+Genre Diversity Index tells us who is most versatile — which publishers spread across multiple genres.
+
+Together, these metrics provide a holistic view of the industry:
+
+Dominant platforms shaped the market landscape.
+
+Diverse publishers ensured long‑term sustainability by appealing to varied gamer interests.
